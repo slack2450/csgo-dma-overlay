@@ -36,7 +36,7 @@ This is a webpage that connects to the DMA client via a websocket and then draws
 
 I use a NETV2 which overlays the two HDMI streams to create the output which can then be plugged into any monitor this supports 1080p @ 60Hz
 
-![hdmi](./images/hdmi.png)
+![hdmi](./images/hdmi.jpeg)
 
 ## Security
 
