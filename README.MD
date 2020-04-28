@@ -22,7 +22,7 @@ There are three components to this project: The DMA Client and the Overlay clien
 
 ### DMA Client
 
-This reads the csgo process using [pcieleech](https://github.com/ufrisk/pcileech) then creates a websocket for the overlay client to connect to on poort 9002.
+This reads the csgo process using [pcieleech](https://github.com/ufrisk/pcileech) then creates a websocket for the overlay client to connect to on port 9002.
 
 ![output](./images/output.png)
 
